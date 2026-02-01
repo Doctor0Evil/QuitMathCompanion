@@ -1,0 +1,6 @@
+nodeid,category,region,parameter,unit,baselinevalue,improvedvalue,period,ecoimpactscore,karmaperunit,notes
+PHX-QUIT-APP-01,QuitMathCompanion,Phoenix-AZ,DisposableVapesPerUserPerYear,units,365,0,2026-12-31,0.91,0.0005,"User fully transitions from daily Esco-style disposables to app-based behavioral control; avoided hardware logged."
+PHX-RITUAL-DEV-02,SmartRitualDevice,Phoenix-AZ,DeviceShellMaterialPlasticFraction,percent,100,15,2026-12-31,0.87,0.0002,"Switch from full plastic shell to fast-compostable bio-composite for quit-surrogate devices."
+PHX-CYBOAIR-SMOKE-03,CyboAirSmokeCorridor,Phoenix-Downtown,PM2.5MassRemoved,kg/year,0,45,2026-12-31,0.93,0.67,"Nanoswarm lamppost modules over smoking hotspot reduce fine particulates; mass removal computed from Cin-Cout and airflow."
+PHX-CPVM-CLINIC-04,CPVMQuitKernel,Maricopa-Clinics,UnsafeProtocolIncidents,count/year,20,2,2026-12-31,0.89,0.1,"CPVM-based safety kernel blocks high-risk quitting protocols in clinics, reducing adverse events while supporting cessation."
+PHX-LEDGER-AIR-05,QuitAirKarmaLedger,Phoenix-Metro,NetCO2eAvoidedFromVapeSupply,tCO2e/year,0,120,2026-12-31,0.90,1.0,"Integrated metric combining reduced vape imports with lower waste processing and small air-quality gains from CyboAir nodes."
